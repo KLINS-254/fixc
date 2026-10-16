@@ -1,0 +1,1 @@
+{"name":"TEXAFIC App & Game Testing","short_name":"TEXAFIC","description":"Discover apps and games, complete testing tasks, and share honest feedback.","start_url":"./index.html","display":"standalone","background_color":"#f5f7fb","theme_color":"#071b36","orientation":"portrait","icons":[{"src":"assets/texafic-logo.jpg","sizes":"512x512","type":"image/jpeg","purpose":"any"}]}
